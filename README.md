@@ -97,12 +97,12 @@ Models Implemented:
 ## Project Structure
 
 ```text
-Customer-Churn-Analysis/
+Customer_Churn_Analysis/
 │
 ├── customer_data.csv
 ├── performance_data.csv
 ├── additional_data.csv
-├── Data_Analysis_Python.ipynb
+├── Data_Analysis _Python.ipynb
 └── README.md
 ```
 
